@@ -1,2 +1,2 @@
 # ETCMS
-A example content management system written in Java and PostgreSQL, using Spring Boot framework and microservices architecture
+An example content management system written in Java and MySQL, using Spring Boot framework and microservices architecture
