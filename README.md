@@ -1,2 +1,29 @@
 # ETCMS
-An example content management system written in Java and MySQL, using Spring Boot framework and microservices architecture
+#### Project Technology Stack 
+
+##### Front end
+
+JavaScript
+
+React
+
+
+
+##### Backend
+
+Programming language: JAVA
+
+Frameworks: Spring Boot
+
+Database: MySQL
+
+##### Tools
+
+Project management: Maven
+
+Diagrams: draw.io 
+
+##### 
+
+
+
