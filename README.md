@@ -21,7 +21,9 @@ Database: MySQL
 
 Project management: Maven
 
-Diagrams: draw.io 
+Diagrams: Axure RP, XMind, draw.io 
+
+Database design: PowerDesginer
 
 ##### 
 
