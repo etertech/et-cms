@@ -36,3 +36,21 @@ Database design: PowerDesginer
 5. Testing
 6. Documentation
 7. Maintenance
+
+
+
+Package declaration:
+
+Package myPackage //Should begin with a lowercase letter 
+
+Class declaration
+
+Public class MyClass //should begin with a capital letter
+
+Variables& Types
+
+We name variables using "camelCase"
+
+int myInt = 0;
+
+String color = "red";
